@@ -1,0 +1,39 @@
+h1 {
+  font-family: arial;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+#log-panel {
+    background-color: #DDD;
+    display: block;
+    margin: 20px auto 0 auto;
+    width: 700px;
+    height: 300px;
+    border: 2px solid #AAA !important;
+    border-radius: 10px;
+    text-align: center;
+    }
+
+
+.gwt-RichTextArea {
+    display: block;
+    margin: 0 auto 0 auto;
+    width: 700px;
+    height: 350px;
+    border: 2px solid #AAA !important;
+    border-radius: 10px;
+    }
+
+.button-panel {
+    width: 700px;
+    display: block;
+    margin: 0 auto 0 auto;
+    text-align: right;
+    }
+
+.my-button {
+    width: 100px;
+    font-weight: bold;
+	font-size: 120%;
+    }

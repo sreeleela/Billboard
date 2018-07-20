@@ -1,0 +1,2 @@
+serviceClass: edu.sdsu.cs645.Billboard.client.BillboardService
+path: 6AE21C21652C6EFCF5BE914F791CFB44.gwt.rpc

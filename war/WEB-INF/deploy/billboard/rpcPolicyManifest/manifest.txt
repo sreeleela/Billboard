@@ -1,0 +1,3 @@
+# Module billboard
+# RPC service class, partial path of RPC policy file
+edu.sdsu.cs645.Billboard.client.BillboardService, 6AE21C21652C6EFCF5BE914F791CFB44.gwt.rpc
